@@ -14,7 +14,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+- Wireshark
+- Powershell
 
 <h2>Operating Systems Used </h2>
 
