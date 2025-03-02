@@ -29,7 +29,8 @@ This tutorial outlines the process of creating a firewall in Azure.<br />
 <h2>Configuration Steps</h2>
 
 <p>
-[![Watch the Video](https://raw.githubusercontent.com/your-username/your-repository/main/images/thumbnail_firewall.png)](https://www.youtube.com/watch?v=5IG4RbfSCf8) Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+[![Watch the Video]([https://raw.githubusercontent.com/your-username/your-repository/main/images/thumbnail_firewall.png](https://raw.githubusercontent.com/tcpiercy/create-firewall-azure/main/thumbnail_firewall.png
+))](https://www.youtube.com/watch?v=5IG4RbfSCf8) Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
