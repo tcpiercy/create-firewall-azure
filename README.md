@@ -28,10 +28,9 @@ This tutorial outlines the process of creating a firewall in Azure.<br />
 
 <h2>Configuration Steps</h2>
 
-<p>
-[![Firewall Thumbnail](https://raw.githubusercontent.com/tcpiercy/create-firewall-azure/main/thumbnail_firewall.png)](https://www.youtube.com/watch?v=5IG4RbfSCf8)
-</p>
-<br />
+<a href="https://www.youtube.com/watch?v=5IG4RbfSCf8">
+    <img src="https://raw.githubusercontent.com/tcpiercy/create-firewall-azure/main/thumbnail_firewall.png" alt="Firewall Thumbnail" width="80%">
+</a>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
