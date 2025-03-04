@@ -28,8 +28,9 @@ This tutorial outlines the process of creating a firewall in Azure.<br />
 
 <h2>Configuration Steps</h2>
 
-<a href="https://www.youtube.com/watch?v=5IG4RbfSCf8">
-    <img src="https://raw.githubusercontent.com/tcpiercy/create-firewall-azure/main/thumbnail_firewall.png" alt="Firewall Thumbnail" width="80%">
+<a href="https://www.youtube.com/watch?v=5IG4RbfSCf8" target="_blank">
+    <img src="https://raw.githubusercontent.com/tcpiercy/create-firewall-azure/main/thumbnail_firewall.png" alt="Firewall Thumbnail" width="80%" style="position: relative;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_play.svg" alt="Play Button" width="10%" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); pointer-events: none;">
 </a>
 
 <p>
