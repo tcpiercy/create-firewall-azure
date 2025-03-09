@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
+<h1>Azure- Firewall Configuration</h1>
 This tutorial outlines the process of creating a firewall in Azure.<br />
 
 
