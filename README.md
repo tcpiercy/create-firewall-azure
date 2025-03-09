@@ -1,6 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
+<img src="https://github.com/user-attachments/assets/9499b61f-0733-48a9-a9fb-e608663e37a3" width="400" /></p>
 
 <h1>Azure- Firewall Configuration</h1>
 This tutorial outlines the process of creating a firewall in Azure.<br />
